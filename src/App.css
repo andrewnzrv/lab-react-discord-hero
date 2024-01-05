@@ -1,0 +1,68 @@
+#root {
+  height: 100vh;
+  width: 100vw;
+}
+
+.App {
+  background: #404fed;
+  height: 100vh;
+  width: 100vw;
+}
+
+.main {
+  height: 100vh;
+  width: 100vw;
+}
+
+.navbar {
+  height: 50px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-top: 20px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.logo {
+  height: 25px;
+}
+
+.menu {
+  height: 30px;
+}
+
+.content {
+  margin-left: 20px;
+}
+
+.heading {
+  font-family: 'Poppins', sans-serif;
+  font-size: 4rem;
+  color: white;
+  margin-top: 100px;
+  margin-bottom: 30px;
+  width: 500px;
+}
+
+.paragraph {
+  font-family: 'Roboto', sans-serif;
+  font-size: 1rem;
+  color: white;
+  margin-bottom: 30px;
+  width: 600px;
+
+}
+
+.btn-mac {
+  height: 30px;
+  background: white;
+  width: 200px;
+  margin-bottom: 20px;
+}
+
+.btn-browser {
+  height: 30px;
+  background: white;
+  width: 200px;
+}
